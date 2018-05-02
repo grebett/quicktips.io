@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="102px" height="20px" viewBox="0 0 102 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-label-left-purple</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M82,20 L10,20 C4.4771525,20 0,15.5228475 0,10 C0,4.4771525 4.4771525,0 10,0 L82,0 L102,10 L82,20 Z" id="path-1"></path>
+        <filter x="-6.9%" y="-25.0%" width="113.7%" height="170.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="arrow-label-left-purple" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(51.000000, 10.000000) scale(-1, 1) translate(-51.000000, -10.000000) " id="Combined-Shape">
+            <g>
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#6C4494" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

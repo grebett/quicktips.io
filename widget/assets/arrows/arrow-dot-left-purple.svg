@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="16px" viewBox="0 0 82 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-dot-left-purple</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-6.1%" y="-31.2%" width="118.3%" height="187.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="arrow-dot-left-purple" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g filter="url(#filter-1)">
+            <path d="M14,8 L82,8" id="Stroke-20" stroke="#6C4494" stroke-width="2"></path>
+            <path d="M8.00053195,16 C3.58215307,16 0,12.4178469 0,8.00053195 C0,3.58215307 3.58215307,0 8.00053195,0 C12.4178469,0 16,3.58215307 16,8.00053195 C16,12.4178469 12.4178469,16 8.00053195,16" id="Arrow-head-20" fill="#6C4494"></path>
+        </g>
+    </g>
+</svg>

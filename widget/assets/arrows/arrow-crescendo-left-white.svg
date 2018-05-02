@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="42px" viewBox="0 0 82 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-crescendo-left-white</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-6.1%" y="-11.9%" width="117.1%" height="133.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="arrow-crescendo-left-white" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g filter="url(#filter-1)" fill="#FFFAFA" fill-rule="nonzero" id="Shape">
+            <path d="M32.2202276,25.835395 C32.2208103,25.8354624 58.1270133,28.5142415 58.1270133,28.5142415 C58.4992155,28.552731 58.7695963,28.8843237 58.7309356,29.2548646 C58.7300819,29.2630266 57.0364787,41.2313389 57.0364787,41.2313389 C56.9842807,41.6002474 57.2423438,41.9414321 57.6128792,41.9933991 C57.812172,42.0213522 58.0136466,41.9596449 58.1626928,41.8250057 L81.7777528,20.4919754 C82.0548684,20.2416383 82.075669,19.8150428 81.8242188,19.539154 C81.8003286,19.5129277 57.5815089,0.1485966 57.5815089,0.1485966 C57.2897312,-0.0846474784 56.8632713,-0.0382522916 56.62899,0.252233653 C56.5071947,0.403237237 56.4564737,0.599057573 56.489714,0.789872788 L58.6005219,12.9031178 C58.6644821,13.270178 58.4174494,13.6193494 58.0487569,13.6830399 C58.0379704,13.6849016 32.0681189,16.8888947 32.0681189,16.8888947 C32.0655036,16.889205 0.586499015,21.1431539 0.586499015,21.1431539 C0.21569259,21.1932726 -0.0440914314,21.5331487 0.00623655643,21.9023 C0.0481900972,22.2100003 0.295710568,22.4494367 0.605849679,22.4823275 L32.2202276,25.835395 Z" transform="translate(41.000000, 21.000000) scale(-1, 1) translate(-41.000000, -21.000000) "></path>
+        </g>
+    </g>
+</svg>
